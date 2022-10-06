@@ -1,0 +1,5 @@
+botella
+plato
+tenedor
+cuchara
+vaso
